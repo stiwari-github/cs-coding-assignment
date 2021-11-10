@@ -1,0 +1,7 @@
+{"id":"1", "status": "STARTED", "timestamp":12345}
+{"id":"1", "status": "FINISHED", "timestamp":12354}
+{"id":"2", "status": "STARTED", "timestamp":12345, "type":"APPLICATION_LOG", "host":"localhost"}
+{"id":"2", "status": "FINISHED", "timestamp":12348, "type":"APPLICATION_LOG", "host":"localhost"}
+{"id":"3", "status": "STARTED", "timestamp":12345}
+{"id":"3", "status": "FINISHED", "timestamp":12389}
+{"id":"4", "status": "STARTED", "timestamp":12345}
